@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image{
+    background: url(../images/cosmos_1.jpg);
+    /* height: 100vh; */
+    background-position: center;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.container{
+    border: 1px solid black;
+    margin:0px 200px;
+    background-color: darkslategrey;
+    opacity: 80%;
+    padding: 50px 20px;
+}
+
+h1{
+    /* text-align: center; */
+    font-size: 1.5em;
+    color: white;
+    
+}
